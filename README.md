@@ -60,7 +60,7 @@ Notebook: [`Week2_SmartEnergy_Optimization.ipynb`](Week2_SmartEnergy_Optimizatio
 - Completed full Smart Energy Optimization project.  
 - Finalized models for demand prediction, load optimization, and cost analysis.  
 - Generated visualizations for baseline vs optimized load.  
-- Submitted complete notebook: [`fED-beo.ipynb`](Week3_FinalSubmission/fED-beo.ipynb)
+- Submitted complete notebook: [`fED-beo.ipynb`](Week3_FinalSubmission/Fed-BEO.ipynb)
 
 
 ## ⚙️ Setup & Installation  
