@@ -56,12 +56,12 @@ Notebook: [`Week2_SmartEnergy_Optimization.ipynb`](Week2_SmartEnergy_Optimizatio
 
 ---
 
-## 📊 Next Steps (Week 3)  
-- Add **renewable integration** (solar + battery).  
-- Create a **Streamlit dashboard** for interactive visualization.  
-- Test with **real-world smart meter datasets**.  
+## 📌 Week 3: Final Submission
+- Completed full Smart Energy Optimization project.  
+- Finalized models for demand prediction, load optimization, and cost analysis.  
+- Generated visualizations for baseline vs optimized load.  
+- Submitted complete notebook: [`fED-beo.ipynb`](Week3_FinalSubmission/fED-beo.ipynb)
 
----
 
 ## ⚙️ Setup & Installation  
 
